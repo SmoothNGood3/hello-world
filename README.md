@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi, my name is Camden!
+
+Hope everyone is doing good!
